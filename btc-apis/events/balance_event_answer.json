@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "data": {
+    "network": "BTCTEST",
+    "address": "tb1qnddwxp89kwfd27fgepdkvuzxejrx57cgrydq2v",
+    "confirmed_balance": "0.00010000",
+    "unconfirmed_balance": "0.00000000"
+  }
+}
